@@ -1,0 +1,20 @@
+{
+  "name": "hapi-rest-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "author": "http://webkid.io",
+  "contributors": ["http://github.com/moklick"],
+  "license": "MIT",
+  "dependencies": {
+    "bedwetter": "^1.8.2",
+    "blipp": "^2.2.1",
+    "dogwater": "^0.4.7",
+    "hapi": "^8.8.0",
+    "sails-disk": "^0.10.8",
+    "shortid": "^2.2.2"
+  }
+}
