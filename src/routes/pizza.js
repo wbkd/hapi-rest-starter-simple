@@ -10,7 +10,7 @@ module.exports = [{
       }
   }
 }, {
-  // retrun a specific pizza by id
+  // return a specific pizza by id
   path: '/pizza/{id}',
   method: 'GET',
   config: {
