@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple Hapi project that offers you REST API based on Dogwater and Bedwetter.",
   "main": "index.js",
+  "repository" : "https://github.com/wbkd/hapi-rest-starter-simple",
   "scripts": {
     "start" : "node index.js"
   },
