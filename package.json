@@ -8,7 +8,9 @@
     "start" : "node index.js"
   },
   "author": "http://webkid.io",
-  "contributors": ["http://github.com/moklick"],
+  "contributors": [
+    "http://github.com/moklick"
+  ],
   "license": "MIT",
   "dependencies": {
     "bedwetter": "^1.8.2",
