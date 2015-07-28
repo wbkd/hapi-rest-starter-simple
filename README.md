@@ -1,6 +1,6 @@
 # Hapi REST API starter
 
-Check out the corresponding [blog post](http://blog.webkid.io/how-to-create-a-rest-api-with-hapi/) if you are interested in get to know more about creating REST APIs with Hapi.
+Check out the corresponding [blog post](http://blog.webkid.io/how-to-create-a-rest-api-with-hapi/) if you are interested in getting to know more about creating REST APIs with Hapi.
 
 ## Installation
 
