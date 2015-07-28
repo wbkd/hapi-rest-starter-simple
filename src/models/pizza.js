@@ -1,3 +1,5 @@
+var shortid = require('shortid');
+
 module.exports = {
   identity: 'pizza',
   connection: 'pizzaDB',
