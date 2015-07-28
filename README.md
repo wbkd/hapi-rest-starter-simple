@@ -1,6 +1,6 @@
 # Hapi REST API starter
 
-A simple Hapi project that offers you REST API based on Dogwater and Bedwetter. 
+Check out the [blog post](http://blog.webkid.io/how-to-create-a-rest-api-with-hapi/) if you are interested in get to know more about creating REST APIs with Hapi.
 
 ## Installation
 
